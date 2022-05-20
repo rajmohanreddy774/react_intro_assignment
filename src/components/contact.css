@@ -1,0 +1,17 @@
+.box{
+    display: inline-block;
+    margin-bottom: 1rem;
+    border: 2px solid black;
+    justify-content: center;
+}
+.box>div{
+    margin-left: 1rem;
+    
+}
+.imgclass{
+    width: 10rem;
+    margin-right: 12px;
+}
+
+
+  
