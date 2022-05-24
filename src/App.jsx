@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <center >
         <div>
-          CONTACT MANAGER APP
+          CONTACT MANAGER APPLICATION
         </div>
       </center>
       <ContactList/>
